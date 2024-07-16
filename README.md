@@ -1,12 +1,12 @@
 # Finanacial Factor Template 
 
-If you need a financial factor template for your website or project you can use this project... :)
+If you need a financial factor template for your website or project, you can use this project… :)
 
 
 ## Features:
 
-Here I create 3 financial factor templates ( Official - Informal - Personal ) for you.
-Languages: PureHTML, SCSS, Bootstrap
+Here I create 3 financial factor templates (Official — Informal — Personal) for you.
+Languages: Pure HTML, SCSS, Bootstrap
 
 
 # Demo's
